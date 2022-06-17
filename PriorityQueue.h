@@ -5,7 +5,7 @@
  *              Minimum Binary Heap is the underlying data strucutre
  * Class Invariant: ... in FIFO order using a priority value
  *
- * Author: Guanhua Lao
+ * Author: Nathan Lo
  * Date: Mar 25th, 2022
  */
 
