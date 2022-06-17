@@ -10,7 +10,7 @@
  *
  * Class Invariant:  Always a __Minimum (balanced)____ Binary Heap
  * 
- * Author: Guanhua Lao
+ * Author: Nathan Lo
  *
  * Last Modification: March 27th 2022
  *
