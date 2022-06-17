@@ -4,7 +4,7 @@
  * Description: Drives the testing of the Queue, the PriorityQueue, the BinaryHeap
  *              the event and all the exceptions classes. 
  *
- * Author: Guanhua Lao
+ * Author: Nathan Lo
  * Last Modification Date: Mar 25th, 2022
  */
 
