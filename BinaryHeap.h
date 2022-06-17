@@ -20,7 +20,7 @@
 
 #include <iostream>
 #include "Event.h"
-#include "EmptyDataCollectionException.h"   // To do: Feel free to recycle an exception class from Assignment 3.
+#include "EmptyDataCollectionException.h"
 
 using namespace std;
 
