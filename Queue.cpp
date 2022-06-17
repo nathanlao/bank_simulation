@@ -5,7 +5,7 @@
  *              with enqueue/dequeue ...
  * Class Invariant: ... in FIFO order
  *
- * Author: Guanhua Lao
+ * Author: Nathan Lo
  * Date: Mar 24th, 2022
  */
 
